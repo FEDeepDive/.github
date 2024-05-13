@@ -17,6 +17,7 @@
 ## 📖 스터디 내용
 
 - [기술 면접 스터디 진행](https://github.com/FEstudyqq/Front-end)
+- [북스터디 진행](https://github.com/FEDeepDive/BookStudy)
 - [알고리즘 문제 해결](https://github.com/FEstudyqq/CodingTest)
 - [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEstudyqq/DaliyPost)
 - [회의록](https://github.com/FEstudyqq/MeetingLog)
@@ -24,4 +25,4 @@
 
 ## ⏰ 스터디 진행 기간
 
-- `2023.12.26` ~ `2024.02 (예정)`
+- `2023.12.26` ~ `2024.06 (예정)`
