@@ -26,3 +26,8 @@
 ## ⏰ 스터디 진행 기간
 
 - `2023.12.26` ~ `취업 후 북스터디까지 함께 할 예정`
+<br/>
+
+## 📊 FEDeepDive 연말결산
+
+- [2024 연말결산](https://github.com/FEDeepDive/MeetingLog/blob/main/log/2024%EC%97%B0%EB%A7%90%EA%B2%B0%EC%82%B0.md)
