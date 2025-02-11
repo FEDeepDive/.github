@@ -16,16 +16,24 @@
 
 ## 📖 스터디 내용
 
-- [기술 면접 스터디 진행](https://github.com/FEstudyqq/Front-end)
+- [FE 개발 지식 정리 및 기술 면접](https://github.com/FEDeepDive/Front-end)
 - [CS 개념 정리](https://github.com/FEDeepDive/ComputerScience)
-- [알고리즘 문제 해결](https://github.com/FEstudyqq/CodingTest)
-- [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEstudyqq/DaliyPost)
-- [회의록](https://github.com/FEstudyqq/MeetingLog)
+- [북스터디](https://github.com/FEDeepDive/BookStudy)
+- [알고리즘 문제 해결](https://github.com/FEDeepDive/CodingTest)
+- [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEDeepDive/DaliyPost)
+- [회의록](https://github.com/FEDeepDive/MeetingLog)
+
 <br/>
 
-## ⏰ 스터디 진행 기간
+## ⏰ 활동 별 진행 기간
 
-- `2023.12.26` ~ `취업 후 북스터디까지 함께 할 예정`
+- `2023.12.26` ~ `2024.05.06` [FE 개발 지식 정리](https://github.com/FEDeepDive/FrontEnd)
+- `2024.05.29` ~ `2024.07.31` [CS 개념 정리](https://github.com/FEDeepDive/ComputerScience)
+- `2024.08.28` ~ `2025.01.15` [기술 면접](https://github.com/FEDeepDive/FrontEnd)
+- `2025.02.10` ~ `진행 중` [북스터디](https://github.com/FEDeepDive/BookStudy)
+- `2023.12.26` ~ `진행 중` [알고리즘 문제 해결](https://github.com/FEDeepDive/CodingTest)
+- `2023.12.26` ~ `진행 중` [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEDeepDive/DaliyPost)
+
 <br/>
 
 ## 📊 FEDeepDive 연말결산
