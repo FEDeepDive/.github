@@ -30,8 +30,8 @@
 - `2023.12.26` ~ `2024.05.06` [FE 개발 지식 정리](https://github.com/FEDeepDive/FrontEnd)
 - `2024.05.29` ~ `2024.07.31` [CS 개념 정리](https://github.com/FEDeepDive/ComputerScience)
 - `2024.08.28` ~ `2025.01.15` [기술 면접](https://github.com/FEDeepDive/FrontEnd)
+- `2023.12.26` ~ `2025.04.23` [알고리즘 문제 해결](https://github.com/FEDeepDive/CodingTest)
 - `2025.02.10` ~ `진행 중` [북스터디](https://github.com/FEDeepDive/BookStudy)
-- `2023.12.26` ~ `진행 중` [알고리즘 문제 해결](https://github.com/FEDeepDive/CodingTest)
 - `2023.12.26` ~ `진행 중` [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEDeepDive/DaliyPost)
 
 <br/>
