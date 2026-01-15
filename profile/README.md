@@ -12,6 +12,7 @@
 - FE 기술에 대한 발표와 답변을 서로 피드백하며, 커뮤니케이션 능력 향상을 도모합니다.
 - 자바스크립트를 사용해 다양한 알고리즘을 구현하며, 문제 해결 능력을 기릅니다.
 - 최신 개발 트렌드 파악 및 개발자로서 역량 증진을 위해, 개발 관련 읽을거리를 공유합니다.
+
 <br/>
 
 ## 📖 스터디 내용
@@ -19,6 +20,7 @@
 - [FE 개발 지식 정리 및 기술 면접](https://github.com/FEDeepDive/Front-end)
 - [CS 개념 정리](https://github.com/FEDeepDive/ComputerScience)
 - [북스터디](https://github.com/FEDeepDive/BookStudy)
+- [OMOP](https://github.com/FEDeepDive/OMOP)
 - [알고리즘 문제 해결](https://github.com/FEDeepDive/CodingTest)
 - [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEDeepDive/DaliyPost)
 - [회의록](https://github.com/FEDeepDive/MeetingLog)
@@ -31,7 +33,8 @@
 - `2024.05.29` ~ `2024.07.31` [CS 개념 정리](https://github.com/FEDeepDive/ComputerScience)
 - `2024.08.28` ~ `2025.01.15` [기술 면접](https://github.com/FEDeepDive/FrontEnd)
 - `2023.12.26` ~ `2025.04.23` [알고리즘 문제 해결](https://github.com/FEDeepDive/CodingTest)
-- `2025.02.10` ~ `진행 중` [북스터디](https://github.com/FEDeepDive/BookStudy)
+- `2025.02.10` ~ `2026.01.13` [북스터디](https://github.com/FEDeepDive/BookStudy)
+- `2026.02.20` ~ `진행 중` [OMOP](https://github.com/FEDeepDive/OMOP)
 - `2023.12.26` ~ `진행 중` [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEDeepDive/DaliyPost)
 
 <br/>
