@@ -34,7 +34,7 @@
 - `2024.08.28` ~ `2025.01.15` [기술 면접](https://github.com/FEDeepDive/FrontEnd)
 - `2023.12.26` ~ `2025.04.23` [알고리즘 문제 해결](https://github.com/FEDeepDive/CodingTest)
 - `2025.02.10` ~ `2026.01.13` [북스터디](https://github.com/FEDeepDive/BookStudy)
-- `2026.02.20` ~ `진행 중` [OMOP](https://github.com/FEDeepDive/OMOP)
+- `2026.01.27` ~ `진행 중` [OMOP](https://github.com/FEDeepDive/OMOP)
 - `2023.12.26` ~ `진행 중` [개발 관련 읽을거리 공유 및 리딩](https://github.com/FEDeepDive/DaliyPost)
 
 <br/>
